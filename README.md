@@ -54,6 +54,6 @@ Programı Çalıştırma
 
 Programı çalıştırmak için terminal veya komut satırını açarak aşağıdaki komutu kullanabilirsiniz:
 
-python password_generator.py
+python pass_creating.py
 
 Program, terminal modunu veya GUI modunu seçmek için sizi yönlendirecektir.
